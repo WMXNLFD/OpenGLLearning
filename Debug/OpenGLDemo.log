@@ -1,8 +1,8 @@
 ﻿  main.cpp
-D:\ljp\OpenGL\OpenGLDemo\main.cpp(116,11): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
-D:\ljp\OpenGL\OpenGLDemo\main.cpp(117,11): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
-D:\ljp\OpenGL\OpenGLDemo\main.cpp(121,16): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
-D:\ljp\OpenGL\OpenGLDemo\main.cpp(122,16): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
-D:\ljp\OpenGL\OpenGLDemo\main.cpp(124,10): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
-D:\ljp\OpenGL\OpenGLDemo\main.cpp(125,10): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+D:\ljp\OpenGL\OpenGLDemo\main.cpp(125,11): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+D:\ljp\OpenGL\OpenGLDemo\main.cpp(126,11): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+D:\ljp\OpenGL\OpenGLDemo\main.cpp(130,16): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+D:\ljp\OpenGL\OpenGLDemo\main.cpp(131,16): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+D:\ljp\OpenGL\OpenGLDemo\main.cpp(133,10): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+D:\ljp\OpenGL\OpenGLDemo\main.cpp(134,10): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
   OpenGLDemo.vcxproj -> D:\ljp\OpenGL\OpenGLDemo\Debug\OpenGLDemo.exe
